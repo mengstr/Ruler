@@ -1,10 +1,10 @@
 # Aisler Ruler
 
-This is a draft of the kind of rular I'd be interested in. It's not only a device for determinig suitable holes for parts but also showcases
-the capabilities of the fab and the limits of the basic/simple class of service.
+This is a draft of the kind of ruler I'd be interested in. It's not only a device for determinig suitable holes for parts but also showcases the capabilities of the fab and the limits of the basic/simple class of service.
 
 #### Front
 <img src="Ruler-Front.png">
+
 #### Back
 <img src="Ruler-Back.png">
 
@@ -19,15 +19,15 @@ the capabilities of the fab and the limits of the basic/simple class of service.
 
 ### Fonts
 - Test of regular font sizes
-- Test of inveted "Buzzard" font sizes
+- Test of inverted "Buzzard" font sizes
 
 ### Slots
 - Plated slots for USB-C
-- 1.8mm unplated slot with solder tabs for testing two PCBs jointed 90 degrees
+- 1.8mm unplated slot with solder tabs for testing two PCBs joined 90 degrees
 - 2.4mm unplated slot for...
 
 ### Naked HASL quality
-- Test for solderbridges at no soldermask for 200/150 200/200 200/300um
+- Test for solderbridges at soldermaskless traces for 200/150 200/200 200/300um
 
 ### Silkscreen resolution
 - Test grid at 0.15 and 0.20 mm tracewidth/pitch
@@ -36,9 +36,11 @@ the capabilities of the fab and the limits of the basic/simple class of service.
 - Availability of solder dams at 0.4, 0.5, 0.65 and 1.27 pitch tssop/soic
 
 ### Transparency of soldermask
-- Test text on copper respectibe non-copper
+- Test text on copper respective non-copper
 
-## Not yet implemened
 ### Transparency of naked FR-4 material
-### Quality of silkscreen on tented vias
+- Test transpareny for backlit LED indicators
+
+### Quality tented vias
+- How much soldermask and silkscreen will be applied
 

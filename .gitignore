@@ -3,43 +3,30 @@
 .DS_Store
 .vscode/
 
-*.lst
-*.bin
-*.elf
-*.hex
-*.map
-*.o
-*.o65
-*.ptp
-kimrom.h
-TFBOK/*/*.h
-
-ch32v003fun/
-TEST/
-
 # PCB Temporary files
-PCB/*.000
-PCB/*.bak
-PCB/*.bck
-PCB/*.kicad_pcb-bak
-PCB/*.kicad_sch-bak
-PCB/*-backups
-PCB/*.kicad_prl
-PCB/*.sch-bak
-PCB/*~
-PCB/_autosave-*
-PCB/*.tmp
-PCB/*-save.pro
-PCB/*-save.kicad_pcb
-PCB/fp-info-cache
+*-backups/*
+*.000
+*.bak
+*.bck
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*-backups
+*.kicad_prl
+*.sch-bak
+*~
+_autosave-*
+*.tmp
+*-save.pro
+*-save.kicad_pcb
+fp-info-cache
 
 # Netlist files (exported from Eeschema)
-PCB/*.net
+*.net
 
 # Autorouter files (exported from Pcbnew)
-PCB/*.dsn
-PCB/*.ses
+*.dsn
+*.ses
 
 # Exported BOM files
-PCB/*.xml
-PCB/*.csv
+*.xml
+*.csv
