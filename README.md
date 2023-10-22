@@ -2,11 +2,8 @@
 
 This is a draft of the kind of ruler I'd be interested in. It's not only a device for determinig suitable holes for parts but also showcases the capabilities of the fab and the limits of the basic/simple class of service.
 
-#### Front
-<img src="Ruler-Front.png">
+<img src="TwitterRuler.jpg">
 
-#### Back
-<img src="Ruler-Back.png">
 
 ### Ruler
 - mm and inch (1/16th) measurement (or else it wouldn't be a ruler)
