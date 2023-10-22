@@ -1,8 +1,8 @@
-# Aisler Ruler
+# PCB Ruler
 
 This is a draft of the kind of ruler I'd be interested in. It's not only a device for determinig suitable holes for parts but also showcases the capabilities of the fab and the limits of the basic/simple class of service.
 
-<img src="TwitterRuler.jpg">
+<img src="TwitterRuler.jpeg">
 
 
 ### Ruler
